@@ -17,12 +17,16 @@
     {
       "email": "jan.blaha@hotmail.com",
       "name": "pofider"
-    }
+    },
+	{
+	  "email": "joey@clarifyhealth.com",
+	  "name": "Joey Li"
+	}
   ],
   "name": "phantomjs-exact-2-1-1",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/pofider/phantomjs-exact-2-1-1"
+    "url": "git+ssh://git@github.com/JoeyLi-1/phantomjs-exact-2-1-1.git"
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
