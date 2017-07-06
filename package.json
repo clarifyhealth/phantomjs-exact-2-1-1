@@ -4,7 +4,7 @@
     "name": "Jan Blaha"
   },
   "dependencies": {
-    "phantomjs-prebuilt": "git+https://63f55f280ab2c4e70ed830a808595d4cd58c1cfb:x-oauth-basic@github.com/clarifyhealth/phantomjs-prebuilt.git#2.1.16"
+    "phantomjs-prebuilt": "git+https://e6255b9a74587d6c6f36ab2b40b94dcfccd0cd40:x-oauth-basic@github.com/clarifyhealth/phantomjs-prebuilt.git#2.1.16"
   },
   "description": "Installs specific phantomjs 2.1.1",
   "homepage": "https://github.com/pofider/phantomjs-exact-2-1-1",
